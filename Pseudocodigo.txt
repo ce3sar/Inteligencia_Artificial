@@ -1,0 +1,17 @@
+1 inicio 
+2 declaracion de variables (tamano_arreglo, arreglo, aleatorio, ciclo, mayor, divisible)
+3 mientras ciclo es menor de tamano_arreglo
+	3.1 generar numero aleatorio
+	3.2 asignar aleatorio a posicion del arreglo
+	3.3 aumentar ciclo 
+4 igualar ciclo a 1
+5 mientras ciclo es menor a tamano_arreglo menos 2
+	5.1 si arreglo en ciclo entre 2 es igual al siguiente siguiente de la posicion del arreglo y 
+	    la posicion anterior del arreglo sumada a la siguiente posicion del arreglo es igual a la posicion del arreglo y
+		el numero siguiente de la posicion del arreglo es impar y 
+		la posicion actual del arreglo es par  
+		5.1.1 se asigna a mayor la posicion del arreglo
+	5.2 se aumentar ciclo 
+6 se asigna a divisible mayor entre 2 
+7 se imprime mayor y divisible para decir que numero par fue el mayor y cuantas veces es divisible entre 2 
+8 fin
